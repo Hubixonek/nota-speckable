@@ -6,7 +6,7 @@ const CorrectionNote = () => {
 
   return (
     <div className="correction-note__container">
-        <img src="src/assets/speckable.png" alt="speckable" />
+        <img src="/speckable.png" alt="speckable" />
       <h1 className="correction-note__title">Nota korygująca</h1>
       <form className="correction-note__form">
         <div className="correction-note__row">
